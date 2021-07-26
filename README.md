@@ -11,6 +11,7 @@
 ### I’m currently learning:
 - Flask
 - Powershell
+- discord.py
 ### I'm currently creating:
 - a programming language/OS based on [hex](https://wiki.lspace.org/mediawiki/Hex): https://replit.com/@GoodCoderBadBoy/Hex
 
