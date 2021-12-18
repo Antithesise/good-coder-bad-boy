@@ -1,5 +1,4 @@
 # GoodCoderBadBoy
-[Website](https://good-coder-bad-boy.github.io)
 
 ### I’m interested in:
 - Coding
