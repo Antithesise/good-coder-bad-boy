@@ -13,7 +13,7 @@
 - Powershell
 - discord.py
 ### I'm currently creating:
-- A (not as esoteric as I hoped) programming language/OS/CLI based on [hex](https://wiki.lspace.org/mediawiki/Hex): https://replit.com/@GoodCoderBadBoy/Hex
+- A (not as esoteric as I hoped) programming language/OS/CLI based on [hex](https://wiki.lspace.org/mediawiki/Hex): https://github.com/good-coder-bad-boy/Hex
 
 My accounts:  
 [repl.it](https://replit.com/@GoodCoderBadBoy)  
